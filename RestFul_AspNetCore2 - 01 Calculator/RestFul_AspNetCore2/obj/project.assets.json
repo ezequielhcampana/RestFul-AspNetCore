@@ -9663,10 +9663,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aplicativos\\Udemy\\Cursos\\RestFul_AspNetCore2\\RestFul_AspNetCore2\\RestFul_AspNetCore2\\RestFul_AspNetCore2.csproj",
+      "projectUniqueName": "C:\\Aplicativos\\Udemy\\Cursos\\RestFul_AspNetCore2\\RestFul_AspNetCore2 - 01 Calculator\\RestFul_AspNetCore2\\RestFul_AspNetCore2.csproj",
       "projectName": "RestFul_AspNetCore2",
-      "projectPath": "C:\\Aplicativos\\Udemy\\Cursos\\RestFul_AspNetCore2\\RestFul_AspNetCore2\\RestFul_AspNetCore2\\RestFul_AspNetCore2.csproj",
-      "outputPath": "C:\\Aplicativos\\Udemy\\Cursos\\RestFul_AspNetCore2\\RestFul_AspNetCore2\\RestFul_AspNetCore2\\obj\\",
+      "projectPath": "C:\\Aplicativos\\Udemy\\Cursos\\RestFul_AspNetCore2\\RestFul_AspNetCore2 - 01 Calculator\\RestFul_AspNetCore2\\RestFul_AspNetCore2.csproj",
+      "outputPath": "C:\\Aplicativos\\Udemy\\Cursos\\RestFul_AspNetCore2\\RestFul_AspNetCore2 - 01 Calculator\\RestFul_AspNetCore2\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
