@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using RestFul_AspNetCore2.Services;
+using RestFul_AspNetCore2.Services.Implementations;
 
 namespace RestFul_AspNetCore2
 {
@@ -29,6 +31,9 @@ namespace RestFul_AspNetCore2
         {
             // Add framework services.
             services.AddMvc();
+
+            // Dependency Injection
+            services.AddScoped<IPersonService, PersonServiceImplemetation>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,4 +45,5 @@ namespace RestFul_AspNetCore2
             app.UseMvc();
         }
     }
+
 }
